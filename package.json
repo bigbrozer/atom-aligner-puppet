@@ -1,7 +1,7 @@
 {
   "name": "aligner-puppet",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Puppet support for aligner",
   "repository": "https://github.com/bigbrozer/atom-aligner-puppet",
   "license": "MIT",
